@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... machine learning 
 - 💞️ I’m looking to collaborate on ... apple , ibm
 - 📫 How to reach me ... 
+- 👋 
 
 <!---
 kaiii0x1/kaiii0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
